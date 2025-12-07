@@ -1,4 +1,4 @@
-# 🖥️ Abdallah Zaitoun Portfolio
+# 🖥️ Portfolio ًWebsite
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About the Portfolio
-This is my **personal portfolio website** showcasing my skills, projects, and professional experience.  
+This is **personal portfolio website** showcasing skills, projects, and professional experience.  
 The site is **frontend-only**, featuring modern animations, smooth scrolling, and interactive elements.
 
 **Key highlights:**
